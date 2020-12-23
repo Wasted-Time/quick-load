@@ -1,7 +1,0 @@
-{
-	"name": "quick-load",
-	"update": "github:tera-mods/quick-load",
-	"title": "Quick Load",
-	"author": "Pinkie Pie / Wasted-Time",
-	"description": "Removes useless loading screen when switching channels or teleporting nearby."
-}
