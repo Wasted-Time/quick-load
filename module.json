@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "quick-load",
+    "author": "Alteria / Pinkie Pie / Wasted-Time ",
+    "description": "Removes useless loading screen when switching channels or teleporting nearby.",
+    "options": {
+        "niceName": "QuickLoad"
+    },
+    "servers": ["https://raw.githubusercontent.com/AlteriaX/quick-load/master/"],
+	"supportUrl": "https://github.com/AlteriaX/quick-load/issues"
+}
